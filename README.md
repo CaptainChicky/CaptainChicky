@@ -3,10 +3,12 @@ There have been ![Visitor counter](http://profile-counter.glitch.me/CaptainChick
 ## YOOOOO I qualified for the GitHub student dev package and now I have GitHub pro lol. I guess being young has its benefits >.>
 
 ##### GitHub to-do list (I will get to them, surely, I say)
-0) Figure out how to use all the benefits of GitHub pro before I graduate university lmao.
+0) Figure out how to use all the benefits of GitHub pro before I graduate university lmao.*
 1) Polish up all of my repos.
 2) Fix my GitHub webpage 😅.
 3) Learn more C family language and get better at Rust.
+
+*Mar 23, 2025: This has decidedly failed, it expires in 7 days, reapplication requires submission of my full uncensored university ID, and adding my real name to this acc. No way in fuckin hell am i doinig that gg ig
 
 ### Hi there! It's me, Chicky 😋!
 - 🛠 I am an ameatur coder. I dabble with webdev languages like js, some shell languages like PowerShell, along with Rust, Python, and C#. Wanting to learn more languages and will try to find the time to do that 🤣.
