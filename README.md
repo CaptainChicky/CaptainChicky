@@ -27,11 +27,6 @@ There have been ![Visitor counter](http://profile-counter.glitch.me/CaptainChick
 
 Somehow I don't have an F this is a moiarcle lmao also what the fcku is a speling
 
-
-### Special Repositories 😎
-- [Here](https://github.com/CaptainChicky/captainchicky.github.io) is my GitHub page website (source is private until I can sort some stuff out bruh, but it's live on https://theaviary.me).
-- [Here](https://github.com/CaptainChicky/CaptainChicky) is the repository you are reading from 😆.
-
 ### "Sign" my guestbook!
 "Sign" [here](https://twitter.com/intent/tweet?text=Hi%20%40CaptChicky%20%F0%9F%91%8B.%20I'm%20saying%20hi%20from%20your%20Github%20profile!%20(https%3A%2F%2Fgithub.com%2FCaptainChicky)%0A%0A)!
 
