@@ -1,4 +1,4 @@
-There have been ![Visitor counter](http://profile-counter.glitch.me/CaptainChicky/count.svg) visits to my profile so far.
+There have been ![Visitor counter](http://profile-counter.deno.dev/CaptainChicky/count.svg) visits to my profile so far.
 
 ## YOOOOO I qualified for the GitHub student dev package and now I have GitHub pro lol. I guess being young has its benefits >.>
 
