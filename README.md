@@ -23,6 +23,8 @@ There have been ![Visitor counter](http://profile-counter.deno.dev/CaptainChicky
 
   ![Chicky's github stats](https://github-readme-stats-fast.vercel.app/api?username=CaptainChicky&theme=blueberry&show_icons=true)
   ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CaptainChicky&theme=blueberry&show_icons=true)
+  <br>
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=CaptainChicky&theme=blueberry)
 </details>
 
 Somehow I don't have an F this is a moiarcle lmao also what the fcku is a speling
