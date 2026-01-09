@@ -27,7 +27,7 @@ also lmao qualified for github pro back in hs, never used all of the benefits of
 
   err if the stats are low its prolly bec i privated my acc i'll unprivate it after i process all the repos please standby<br>
   or i just stopped coding for a long while (happenned for a few years, will happen again)because coding is stupid and dumb and retarded im gonna kms
-</details><br>
+</details>
 
 ![Made with notepad :P](https://user-images.githubusercontent.com/85041/87268983-f05eb380-c499-11ea-8945-2de4d4a271d1.png)
 
