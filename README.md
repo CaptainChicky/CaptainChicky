@@ -10,6 +10,8 @@ also lmao qualified for github pro back in hs, never used all of the benefits of
 3) Learn more C family language and get better at Rust.
 4) err make obstar diep.io clone (fix it) and also finish my bullethell game engine
 
+<img src="https://cat-milk.github.io/Anime-Girls-Holding-Programming-Books/static/ec49fdafbc3ecceceea1ee66d9f02ad3/47126/Inuyama_Aoi_Showing_Off_RUST_Programming.png" />
+
 ### Hi there! It's me, Chicky 😋!
 - 🛠 I am an ameatur coder. I dabble with webdev languages like js, some shell languages like PowerShell, along with Rust, Python, and C#. Wanting to learn more languages and will try to find the time to do that 🤣.
 - 🐦 I like birds and science. Astronomy 🤔 perhaps. Music is good too.
