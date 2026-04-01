@@ -1,5 +1,5 @@
 There have been ![Visitor counter](https://komarev.com/ghpvc/?username=CaptainChicky) visits to my profile so far.<br>
-the old counter (http://profile-counter.deno.dev/CaptainChicky/count.svg) broke 🥀
+or ![Visitor counter](http://profile-counter.deno.dev/CaptainChicky/count.svg) i guess (this may or may not be broken so w/e)
 
 i have conducted a commit purge Jan 7 2026 to save space on my computer ngl i have so many repos where i have like 50 gorillion commits started from 50 years ago that have no use (i never look at past commits) and they waste space so erm i will be deleting all the commits lol so if you see a bunch of new projects no they are not new they are just like projects form abck in 2018 i purge commits on
 
